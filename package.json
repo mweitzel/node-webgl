@@ -22,9 +22,6 @@
     "type": "git",
     "url": "https://github.com/mikeseven/node-webgl.git"
   },
-  "scripts": {
-    "install": "node-gyp rebuild"
-  },
   "licenses": [
     {
       "type": "BSD",
